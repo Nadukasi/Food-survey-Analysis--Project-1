@@ -1,0 +1,1 @@
+The main objective of this project is to collect comprehensive data on people's food habits, preferences, and attitudes towards various food-related topics. The insights gained from the survey will be used to understand dietary patterns, identify trends, and potentially inform decisions related to nutrition, food production, and marketing.
